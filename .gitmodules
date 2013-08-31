@@ -16,3 +16,9 @@
 [submodule "bundle/vim-tagbar"]
 	path = bundle/vim-tagbar
 	url = git@github.com:majutsushi/tagbar.git
+[submodule "bundle/vim-airline"]
+	path = bundle/vim-airline
+	url = git@github.com:bling/vim-airline.git
+[submodule "bundle/vim-syntastic"]
+	path = bundle/vim-syntastic
+	url = git@github.com:scrooloose/syntastic.git
