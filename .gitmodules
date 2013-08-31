@@ -4,3 +4,15 @@
 [submodule "bundle/vim-markdown"]
 	path = bundle/vim-markdown
 	url = git://github.com/tpope/vim-markdown.git
+[submodule "bundle/vim-hybrid"]
+	path = bundle/vim-hybrid
+	url = git@github.com:w0ng/vim-hybrid.git
+[submodule "bundle/vim-miro"]
+	path = bundle/vim-miro
+	url = git@github.com:xuxiaodong/miro-vim.git
+[submodule "bundle/vim-ctrlp"]
+	path = bundle/vim-ctrlp
+	url = git@github.com:kien/ctrlp.vim.git
+[submodule "bundle/vim-tagbar"]
+	path = bundle/vim-tagbar
+	url = git@github.com:majutsushi/tagbar.git
